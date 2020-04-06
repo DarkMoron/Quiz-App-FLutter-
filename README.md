@@ -5,11 +5,11 @@ My first basic quiz app using Flutter framework.
 
 > In this, I have only used some basic widgets like ---> 
   
-  > Scaffold
-  > AppBar
-  > Preferred size
-  > Column
-  > Text
-  > Container
-  > Stateless &
-  > Statefull 
+  -> Scaffold
+  -> AppBar
+  -> Preferred size
+  -> Column
+  -> Text
+  -> Container
+  -> Stateless &
+  -> Statefull 
