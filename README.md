@@ -1,7 +1,7 @@
 # Quiz-App-FLutter-
-My first basic quiz app using Flutter framework.
+My first basic quiz app was using the Flutter framework.
 
-> Quiz-app has a set of only 3 questions as of now, but I will soon be creating a a large collection of intriguing questions on a server    which will be fetched by the app according to the category chosen to play with.
+> Quiz-app has a set of only three questions as of now, but I will soon be creating a large collection of intriguing questions on a server that will be fetched by the app according to the category chosen to play with.
 
 > In this, I have only used some basic widgets like ---> 
   
